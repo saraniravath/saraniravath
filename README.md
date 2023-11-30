@@ -5,7 +5,8 @@ saraniravath
 
 A passionate and dedicated final-year engineering student in information technology, driven by a strong interest in crafting innovative web applications utilizing cutting-edge technologies. Possesses a keen understanding of REST API development, React front-end development, and Node.js back-end development. Eager to contribute to challenging projects and collaborate with experienced developers to further enhance skills and knowledge.
 
-📫 Connect with me through @saraniravath2002@gmail.com  or www.linkedin.com/in/saraniravth
+📫 Connect with me through @saraniravath2002@gmail.com  or www.linkedin.com/in/saraniravath
+
 
 
 <!--
